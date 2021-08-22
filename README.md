@@ -16,3 +16,4 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/KakaoMapAPI-FFE01B?style=flat-square&logo=GoogleMaps&logoColor=black"/>
 
+<a href="https://www.notion.so/Portfolio-2887c513758c412888fe60aff7bdcf8c">NOTION</a>
