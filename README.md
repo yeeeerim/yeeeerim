@@ -1,4 +1,4 @@
-### 💪Skills 
+### 💪 Skills 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
@@ -16,6 +16,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/KakaoMapAPI-FFE01B?style=flat-square&logo=GoogleMaps&logoColor=black"/>
 
+### 📄 Portfolio
+
+<a href="https://www.notion.so/Portfolio-2887c513758c412888fe60aff7bdcf8c" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+
 <!--
-<a href="https://www.notion.so/Portfolio-2887c513758c412888fe60aff7bdcf8c">NOTION</a>
+
 -->
