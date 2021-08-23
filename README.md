@@ -18,7 +18,7 @@
 
 ### 📄 Portfolio
 
-<a href="https://www.notion.so/Portfolio-2887c513758c412888fe60aff7bdcf8c" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://nice-papaya-f24.notion.site/Portfolio-2887c513758c412888fe60aff7bdcf8c" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <!--
 
