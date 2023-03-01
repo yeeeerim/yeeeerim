@@ -1,10 +1,10 @@
 <div align="center">
     
 # Hi, I'm Yerim ✨
-  
+ <!-- 
 <img src="https://user-images.githubusercontent.com/58348662/222091026-fd0ecd99-7619-4ae6-92a0-fd1b6c525b8f.png" width="400" alt="image"/>
 <br><br>
-  
+  -->
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeeeerim%2Fhit-counter&count_bg=%23E0F0FF&title_bg=%2387AAFF&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
