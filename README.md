@@ -1,6 +1,6 @@
 <div align="center">
     
-# Hi, I'm Yerim ✨
+# &nbsp;&nbsp;&nbsp;&nbsp; Hi, I'm Yerim ✨
  <!-- 
 <img src="https://user-images.githubusercontent.com/58348662/222091026-fd0ecd99-7619-4ae6-92a0-fd1b6c525b8f.png" width="400" alt="image"/>
 <br><br>
@@ -43,7 +43,7 @@
 
 
   
-## 📄 About Me
+## ☁️ About Me
 
 <a href="https://nice-papaya-f24.notion.site/Portfolio-2887c513758c412888fe60aff7bdcf8c" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   
