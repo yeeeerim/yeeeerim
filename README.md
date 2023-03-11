@@ -42,11 +42,11 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeeerim&show_icons=true&theme=gruvbox)  
 
 
-  
+  <!--
 ## ☁️ About Me
 
 <a href="https://nice-papaya-f24.notion.site/Portfolio-2887c513758c412888fe60aff7bdcf8c" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  
+  -->
   
 </div>
 
