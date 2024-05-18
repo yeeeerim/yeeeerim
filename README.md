@@ -1,6 +1,6 @@
 ### 진예림 ﹒ Yerim Jin
 
-FE Engineer<br>
+FE Developer<br>
 I am interested🔥 in improving UI/UX.
 
 TOPCO <sub>@해외서비스 FE developer 사원 (2022.04 ~ 2023.12)</sub><br>
