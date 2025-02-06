@@ -1,4 +1,4 @@
-### 진예림 ﹒ Yerim Jin
+### 진예림 ∙ JIN YERIM
 
 FE Developer<br>
 I am interested🔥 in improving UI/UX.
@@ -8,7 +8,6 @@ I am interested🔥 in improving UI/UX.
 미래월드 <sub>@Web developer 인턴 (2021.06 ~ 2021.08)</sub><br> -->
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=Next.js&logoColor=eee"/> <img src="https://img.shields.io/badge/Vue.js-3fb17e?style=flat-square&logo=vue.js&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled components&logoColor=white"/>
-
 
 
 <div align="end">
