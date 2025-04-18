@@ -7,11 +7,11 @@ I am interested🔥 in improving UI/UX.
 탑코 <sub>@해외서비스 FE developer 사원 (2022.04 ~ 2023.12)</sub><br>
 미래월드 <sub>@Web developer 인턴 (2021.06 ~ 2021.08)</sub><br> -->
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=Next.js&logoColor=eee"/> <img src="https://img.shields.io/badge/Vue.js-3fb17e?style=flat-square&logo=vue.js&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled components&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=Next.js&logoColor=eee"/> <img src="https://img.shields.io/badge/Vue.js-3fb17e?style=flat-square&logo=vue.js&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/> <img src="https://img.shields.io/badge/StyledComponent / Emotion-DB7093?style=flat-square&logo=styledComponents&logoColor=white"/>
 
 
 <div align="end">
-<sub>Updated on 2025.02.06</sub>
+<sub>Updated on 2025.04.18</sub>
 </div>
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeeeerim%2Fhit-counter&count_bg=%23E0F0FF&title_bg=%2387AAFF&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
