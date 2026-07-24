@@ -11,7 +11,7 @@ I am interested🔥 in improving UI/UX.
 
 
 <div align="end">
-<sub>Updated on 2026.01.09</sub>
+<sub>Updated on 2026.07.25</sub>
 </div>
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeeeerim%2Fhit-counter&count_bg=%23E0F0FF&title_bg=%2387AAFF&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
